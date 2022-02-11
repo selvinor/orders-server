@@ -15,7 +15,7 @@
   "author": "Joe Turner <jturner@thinkful.com>",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^6.5.4",
+    "ajv": "^6.12.3",
     "ajv-keywords": "^3.2.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
